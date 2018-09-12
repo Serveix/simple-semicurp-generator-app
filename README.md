@@ -1,0 +1,1 @@
+simple-semicurp-generator-app
