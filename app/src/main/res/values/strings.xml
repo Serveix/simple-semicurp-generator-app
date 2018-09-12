@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">CurpGenerator</string>
+    <string name="title_activity_curp">CurpActivity</string>
+    <string name="last_name1">Primer apellido</string>
+    <string name="last_name2">Segundo apellido</string>
+    <string name="name">Nombre</string>
+    <string name="sex">Sexo</string>
+    <string-array name="sexoptions">
+        <item>Hombre</item>
+        <item>Mujer</item>
+    </string-array>
+    <string name="birth">Fecha de Nacimiento</string>
+    <string-array name="day">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>20</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="month">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="year">
+        <item>80</item>
+        <item>81</item>
+        <item>82</item>
+        <item>83</item>
+        <item>84</item>
+        <item>85</item>
+        <item>86</item>
+        <item>87</item>
+        <item>88</item>
+        <item>89</item>
+        <item>90</item>
+        <item>91</item>
+        <item>92</item>
+        <item>93</item>
+        <item>94</item>
+        <item>95</item>
+        <item>96</item>
+        <item>97</item>
+        <item>98</item>
+        <item>99</item>
+        <item>00</item>
+    </string-array>
+    <string name="state">Estado</string>
+    <string-array name="countrystate">
+        <item>Aguscalientes</item>
+        <item>Baja California</item>
+        <item>Baja California Sur</item>
+        <item>Campeche</item>
+        <item>Chiapas</item>
+        <item>Chihuahua</item>
+        <item>Coahuila de Zaragoza</item>
+        <item>Colima</item>
+        <item>Ciudad de México</item>
+        <item>Durango</item>
+        <item>Guanajuato</item>
+        <item>Guerrero</item>
+        <item>Hidalgo</item>
+        <item>Jalisco</item>
+        <item>Mexico</item>
+        <item>Michoacan de Ocampo</item>
+        <item>Morelos</item>
+        <item>Nayarit</item>
+        <item>Nuevo León</item>
+        <item>Oaxaca</item>
+        <item>Puebla</item>
+        <item>Queretaro de Arteaga</item>
+        <item>Quintana Roo</item>
+        <item>San Luis Potosi</item>
+        <item>Sinaloa</item>
+        <item>Sonora</item>
+        <item>Tabasco</item>
+        <item>Tamaulipas</item>
+        <item>Tlaxcala</item>
+        <item>Veracruz-Llave</item>
+        <item>Yucatan</item>
+        <item>Zacatecas</item>
+    </string-array>
+
+    <string name="submit_curp">Enviar CURP</string>
+</resources>
